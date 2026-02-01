@@ -2,12 +2,12 @@
 
 <div class="nav-bar">
 
-[Home](./) | 
-[Code Review](code-review) | 
-[Software Design & Engineering](software-design) | 
-[Algorithms & Data Structures](algorithms) | 
-[Databases](databases) | 
-[Artifacts](artifacts)
+[Home](/CS499) | 
+[Code Review](/CS499/code-review) | 
+[Software Design & Engineering](/CS499/software-design) | 
+[Algorithms & Data Structures](/CS499/algorithms) | 
+[Databases](/CS499/databases) | 
+[Artifacts](/CS499/artifacts)
 
 </div>
 ---
