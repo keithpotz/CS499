@@ -4,7 +4,7 @@ description: "Computer Science Capstone ePortfolio (CS 499)"
 remote_theme: pages-themes/hacker@v0.2.0
 
 url: "https://keithpotz.github.io"
-baseurl: ""  # keep empty for a root repo Pages site
+baseurl: "/CS499"  # keep empty for a root repo Pages site
 
 markdown: kramdown
 
