@@ -11,7 +11,7 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  -jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Show these pages in the header nav (Minima theme)
 header_pages:
