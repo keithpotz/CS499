@@ -3,7 +3,7 @@ description: "Computer Science Capstone ePortfolio (CS 499)"
 theme: hacker
 
 
-# url: "https://keithpotz.github.io"
+url: "https://keithpotz.github.io"
 baseurl: ""  # keep empty for a root repo Pages site
 
 markdown: kramdown
