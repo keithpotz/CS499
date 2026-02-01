@@ -1,0 +1,22 @@
+title: "CS 499 Capstone ePortfolio"
+description: "Computer Science Capstone ePortfolio (CS 499)"
+theme: minima
+
+
+# url: "https://keithpotz.github.io"
+baseurl: ""  # keep empty for a root repo Pages site
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Show these pages in the header nav (Minima theme)
+header_pages:
+  - index.md
+  - code-review.md
+  - software-design.md
+  - algorithms.md
+  - databases.md
+  - artifacts.md
