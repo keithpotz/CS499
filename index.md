@@ -3,11 +3,11 @@
 <div class="nav-bar">
 
 [<a href="/CS499/">Home</a>] | 
-[<a href="/CS499/code-review.md">Code Review</a>] | 
-[<a href="/CS499/software-design.md">Software Design and Engineering</a>] | 
-[<a href="/CS499/algorithms.md">Algorithms and Data Structures</a>] | 
-[<a href="/CS499/databases.md">Databases</a>] | 
-[<a href="/CS499/artifacts.md">Artifacts</a>]
+[<a href="/CS499/code-review">Code Review</a>] | 
+[<a href="/CS499/software-design">Software Design and Engineering</a>] | 
+[<a href="/CS499/algorithms">Algorithms and Data Structures</a>] | 
+[<a href="/CS499/databases">Databases</a>] | 
+[<a href="/CS499/artifacts">Artifacts</a>]
 
 </div>
 ---
