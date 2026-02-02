@@ -58,6 +58,7 @@ This code review is for *Contact Management System* completed in CS320.
 - Clear separation between domain model (Contact) and service layer (ContactService)
 - Code is readable with clear method names and logical structure
 - Encapsulation is properly implemented with private fields and public accessors
+  
 ---
 ## Issues / Risks Identified
 - **1: Architecural Issues**
@@ -196,6 +197,7 @@ This code review is for *Contact Management System* completed in CS320.
   - Supports course outcome 3: "Design and evaluate computing solutions wthat solve a given problem using algorithmic principles and computer science practicies and standards appropriate to its solution while managing the trade-offs involved in design choices"
 
 ---
+
 **Enhancemen 2: Refactor Service Layer with Dependency Injection**
 
 - I will create an IContactService interface, rename the current ContactService to ContactServiceImpl and refactor it to accept an IcontactRepository through constructor injeciton rather than creating its own HashMap.
@@ -210,6 +212,8 @@ This code review is for *Contact Management System* completed in CS320.
 This supports Course Outcome 1: "Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science."
 
 By making the code more modular and testable, I'm creating an environment where multiple developers can work on different components independently - one team could work on the repository implementation while another works on business logic.
+
+---
 
 ### Enhancement 3: Create Custom Exception Hierarchy
 
@@ -226,6 +230,8 @@ This supports Course Outcome 4: "Demonstrate an ability to use well-founded and 
 
 Custom exceptions are an industry-standard practice that improves code clarity, debugging, and error handling throughout the application.
 
+---
+
 ### Enhancement 4: Implement Builder Pattern for Contact Creation
 
 
@@ -239,6 +245,7 @@ I will create a ContactBuilder class that provides a fluent interface for constr
 **Course Outcome Alignment:**
 This supports Course Outcome 3 by demonstrating evaluation of design patterns and choosing appropriate solutions for object creation complexity.
 
+---
 
 ### Enhancement 5: Add Comprehensive JavaDoc and Documentation
 
@@ -253,6 +260,7 @@ I will add complete JavaDoc comments to all public classes, interfaces, and meth
 **Course Outcome Alignment:**
 This strongly supports Course Outcome 2 by providing professional-quality written technical communication.
 
+---
 ### Enhancement 6: Add Logging Framework
 
 
@@ -266,6 +274,8 @@ I will integrate SLF4J with Logback as the logging implementation. I'll add appr
 **Course Outcome Alignment:**
 This supports Course Outcome 4 by implementing industry-standard tools and practices for delivering production-quality software.
 
+---
+
 ### Enhancement 7: Improve Unit Tests with Mocking
 
 
@@ -278,6 +288,8 @@ I will refactor the unit tests to use Mockito for mocking dependencies. The Cont
 
 **Course Outcome Alignment:**
 This supports Course Outcome 3 by demonstrating understanding of testing practices and standards for evaluating computing solutions.
+
+---
 
 ### Enhancement 8: Implement Critical Security Improvements
 
@@ -448,7 +460,7 @@ END CLASS
 This enhancement transforms the application from a security-naive prototype into a system that follows secure coding best practices and anticipates real-world attack vectors.
 
 ---
-### SKILLS DEMONSTRATION AND COURSE OUTCOMES (2 minutes)
+### SKILLS DEMONSTRATION AND COURSE OUTCOMES
 
 Let me summarize the specific skills I'll demonstrate through these enhancements:
 
