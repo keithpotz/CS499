@@ -16,7 +16,7 @@ title: Databases and Data Structures
 
 ---
 
-## Overview
+## Overview ##
 
 
 The application that I chose to enhance for the next part of the capstone is my CS360 classes Android Application that is a Inventory Tracker app that would work on a phone. This particular applicaiton uses a simple database with only 2 tables and no relationships.
@@ -408,6 +408,7 @@ public void transferItem(long itemId, long fromLocationId, long toLocationId, in
 
 
 ## Normalization Demonstration ##
+
 ### First Normal Form (1NF)
 
 "**First Normal Form (1NF)**: No repeating groups, atomic values
@@ -516,9 +517,9 @@ This database enhancement demonstrates several important database and software e
    - Choosing appropriate data types
    - Defining primary and foreign keys
    - Creating indices for performance
-   - Setting up constraints (UNIQUE, NOT NULL, CHECK)"
+   - Setting up constraints (UNIQUE, NOT NULL, CHECK)
 
-### SQL & Query Optimization
+### SQL & Query Optimization ###
 
 "**SQL Skills**:
 
