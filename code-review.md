@@ -25,13 +25,25 @@ title: Code Review
 ## Code Review Video
 
 
+- *** Soiftware Design and Engineering***
+
+---
+
+
+
+
 
 - ***Database Enhancement***
 
 {% include youtube.html id='_em38KgCYSA' %}
 
 
-- **Transcript:** [Insert link here](#)
+
+
+
+-***Algorithms and Data Structures***
+
+
 
 ---
 
@@ -39,7 +51,7 @@ title: Code Review
 
 
 
-- **Original Repository:** [Insert link here](#)
+- **Original Repository Contact Management System:** [https://github.com/keithpotz/CS320](#)
 - **Reviewed Version / Notes (Optional):** [Insert link here](#)
 
 ---
