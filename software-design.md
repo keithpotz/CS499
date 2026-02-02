@@ -541,6 +541,4 @@ These enhancements demonstrate my growth in software engineering from writing fu
 
 Most importantly, my systematic identification and mitigation of nine critical security vulnerabilities demonstrates a mature security mindset - the ability to think like an attacker, anticipate exploits, and implement defense-in-depth strategies that protect user data and system resources.
 
-Thank you for your time, and I look forward to implementing these enhancements to demonstrate my mastery of software design, engineering, and security principles.
-
 ---
