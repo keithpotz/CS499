@@ -19,7 +19,7 @@ title: Databases and Data Structures
 ## Overview ##
 
 
-The application that I chose to enhance for the next part of the capstone is my CS360 classes Android Application that is a Inventory Tracker app that would work on a phone. This particular applicaiton uses a simple database with only 2 tables and no relationships.
+The application that I chose to enhance for the next part of the capstone is my CS360 classes Android Application that is a Inventory Tracker app that would work on a phone. This particular applicati9on uses a simple database with only 2 tables and no relationships.
 
 ---
 
