@@ -17,7 +17,7 @@ title: Algorithms and Data Structures
 
 # Capstone Enhancement: Algorithms & Data Structures
 ## Inventory Management Application
-### Category Two: Algorithms and Data Structures
+
 
 ---
 
