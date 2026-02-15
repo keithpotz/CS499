@@ -17,16 +17,16 @@ title: Code Review
 
 # Code Review (Milestone One)
 
-## Overview
-
-
-
 ---
 
 ## Code Review Video
 
 
 - *** Soiftware Design and Engineering***
+
+{% include youtube.html id='1QVH1bctVvw' %}
+
+Contact Management System:** [https://github.com/keithpotz/CS320](#)
 
 ---
 
@@ -38,73 +38,16 @@ title: Code Review
 
 {% include youtube.html id='_em38KgCYSA' %}
 
+Inventory Management System (Andoid Application):** [https://github.com/keithpotz/inventory-Management-App](#)
+
 
 
 
 
 -***Algorithms and Data Structures***
 
+{% include youtube.html id='jSSvc2qkAT8' %}
 
 
+Inventory Management System (Andoid Application):** [https://github.com/keithpotz/inventory-Management-App](#)
 ---
-
-## Repository Links
-
-
-
-- **Original Repository Contact Management System:** [https://github.com/keithpotz/CS320](#)
-- **Reviewed Version / Notes (Optional):** [Insert link here](#)
-
----
-
-## What I Reviewed
-
-
-
-- Key modules/components reviewed:
-  - Placeholder
-  - Placeholder
-  - Placeholder
-
----
-
-## Strengths Observed
-
-
-- Placeholder
-- Placeholder
-- Placeholder
-
----
-
-## Issues / Risks Identified
-
-
-
-### 1. Maintainability
-
-
-### 2. Correctness / Reliability
-
-
-### 3. Security Considerations
-
-
-### 4. Performance / Scalability
-
-
----
-
-## Recommended Improvements
-
-
-
-- Improvement 1 (what/why):
-- Improvement 2 (what/why):
-- Improvement 3 (what/why):
-
----
-
-## Reflection
-
-

@@ -56,7 +56,7 @@ This ePortfolio is organized into the following sections:
 * **Software Design & Engineering** – Enhancement focusing on architecture and maintainability
 * **Algorithms & Data Structures** – Enhancement emphasizing algorithmic improvement
 * **Databases** – Enhancement centered on data persistence and management
-* **Artifacts** – Supporting documentation, diagrams, and evidence
+
 
 
 
