@@ -38,6 +38,8 @@ The result is a portfolio that demonstrates practical software engineering skill
 ### 1. Collaborative Environments & Communication
 The code review component of this portfolio demonstrates structured technical analysis, constructive critique, and the ability to communicate improvement strategies clearly — the kind of communication expected in a professional development team.
 
+The code review process also emphasized in-code documentation and contextual comments to improve long-term maintainability. By structuring feedback around architectural clarity and future extensibility, I demonstrated how code review supports informed decision-making for both developers and project stakeholders. The goal was not only to identify defects, but to strengthen the collaborative development process itself.
+
 Each artifact also includes detailed documentation explaining what was improved, why the changes were necessary, and how they enhanced the system. Rather than listing features, I focused on presenting information in a structured format that would be accessible to stakeholders, teammates, or instructors. The clarity and organization of these explanations reflect my readiness to collaborate effectively in professional software environments.
 
 ### 2. Professional-Quality Communication
@@ -45,6 +47,8 @@ Each artifact also includes detailed documentation explaining what was improved,
 Each artifact includes detailed documentation explaining what was improved, why the changes were necessary, and how they enhanced the system. Rather than simply listing features, I focused on presenting information in a structured and professional format.
 
 This portfolio reflects the ability to write technical documentation suitable for stakeholders, instructors, or development teams. The clarity and organization of the explanations demonstrate readiness to communicate effectively in professional software environments.
+
+The accompanying code review video further demonstrates my ability to communicate technical analysis clearly and concisely in an oral format appropriate for a professional audience.
 
 ### 3. Algorithms and Problem Solving
 The Algorithms & Data Structures enhancement demonstrates my ability to analyze performance limitations and implement improved solutions. I evaluated the original implementation, identified inefficiencies, and redesigned components to improve logical flow and computational efficiency.
@@ -70,7 +74,7 @@ This demonstrates a shift from writing functional code to writing resilient, sec
 
 This capstone demonstrates my ability to evaluate existing systems, identify weaknesses, and implement structured improvements that align with industry standards. The work here reflects practical readiness to contribute in professional software development roles.
 
-In my future, I wish to focus on working towards becoming more fluent in high-performance computing, cross-platform development as well as parallel sorting algorithms. I have found a topic that I am very interested in and I want to further my knowledge and experience in those areas. There is so much that can be learned and created at the intersection of cache friendly sorting and user-centered application design. 
+Moving forward, I plan to continue developing expertise in high-performance computing, cross-platform development, and advanced algorithm design. I am particularly interested performance-oriented systems, including parallel and cache-efficient sorting algorithms. Exploring the intersection of efficient computation and user-centered software design is an area I intend to pursue further, both professionally and academically.
 
 ---
 
