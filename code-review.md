@@ -27,6 +27,8 @@ title: Code Review
 {% include youtube.html id='1QVH1bctVvw' %}
 
 Contact Management System:** [https://github.com/keithpotz/CS320](#)
+
+
 Orignal files: [https://github.com/keithpotz/320-Original](#)
 
 ---
@@ -39,7 +41,8 @@ Orignal files: [https://github.com/keithpotz/320-Original](#)
 
 {% include youtube.html id='_em38KgCYSA' %}
 
-Inventory Management System (Andoid Application):** [https://github.com/keithpotz/inventory-Management-App](#)
+Inventory Management System (Android Application):** [https://github.com/keithpotz/inventory-Management-App](#)
+Updated Inventory Management System (Android Application):** [https://github.com/keithpotz/CS320](#)
 
 
 
@@ -50,5 +53,6 @@ Inventory Management System (Andoid Application):** [https://github.com/keithpot
 {% include youtube.html id='jSSvc2qkAT8' %}
 
 
-Inventory Management System (Andoid Application):** [https://github.com/keithpotz/inventory-Management-App](#)
+Inventory Management System (Android Application):** [https://github.com/keithpotz/inventory-Management-App](#)
+Updated Inventory Management System (Android Application):** [https://github.com/keithpotz/CS320](#)
 ---
