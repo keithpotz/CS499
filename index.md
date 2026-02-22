@@ -26,7 +26,7 @@ This capstone also reinforced the importance of professional communication. Whet
 ## Overview of the Capstone Experience
 The capstone required selecting prior coursework artifacts and enhancing them to demonstrate deeper technical mastery. Rather than building something entirely new, I strengthened existing systems by improving design quality, algorithmic efficiency, and database structure.
 
-For each artifact, I analyzed the original implementation, identified its limitations, and implemented targeted improvements. These enhancements included architectural restructuring, improved data modeling, algorithm refinement, input validation, and security-focused updates — each deliberate and tied to specific program outcomes.
+For each artifact, I analyzed the original implementation, identified its limitations, and implemented targeted improvements. These enhancements included architectural restructuring, improved data modeling, algorithm refinement, input validation, and security-focused updates  each deliberate and tied to specific program outcomes.
 
 The result is a portfolio that demonstrates practical software engineering skills across multiple domains: system design, algorithm development, database management, security awareness, and professional documentation.
 
@@ -53,7 +53,7 @@ The accompanying code review video further demonstrates my ability to communicat
 ### 3. Algorithms and Problem Solving
 The Algorithms & Data Structures enhancement demonstrates my ability to analyze performance limitations and implement improved solutions. I evaluated the original implementation, identified inefficiencies, and redesigned components to improve logical flow and computational efficiency.
 
-Beyond restoring functionality, I considered algorithmic complexity, correctness, and maintainability. This reflects growth in analytical thinking and structured problem-solving — skills fundamental to advanced computer science practice.
+Beyond restoring functionality, I considered algorithmic complexity, correctness, and maintainability. This reflects growth in analytical thinking and structured problem-solving  skills fundamental to advanced computer science practice.
 
 
 ### 4. Computing Tools and Industry Practices
@@ -66,15 +66,15 @@ The portfolio structure itself reflects professional presentation standards. Cod
 
 Security was integrated from the design stage rather than applied retroactively. I considered potential vulnerabilities such as improper data handling, insufficient input validation, and structural weaknesses in database design, then implemented preventative measures to address them directly.
 
-This demonstrates a shift from writing functional code to writing resilient, secure software — an approach that treats security as a core design requirement, not an optional layer.
+This demonstrates a shift from writing functional code to writing resilient, secure software  which is an approach that treats security as a core design requirement, not an optional layer.
 
 
 
 ## Career Readiness and Future Goals
 
-This capstone demonstrates my ability to evaluate existing systems, identify weaknesses, and implement structured improvements that align with industry standards. The work here reflects practical readiness to contribute in professional software development roles.
+Security was integrated from the design stage rather than applied retroactively. After identifying nine critical vulnerabilities in the original codebase including thread safety issues, insufficient input validation, and information disclosure risks, I implemented targeted countermeasures for each. These included replacing HashMap with ConcurrentHashMap to prevent race conditions, building a ContactValidator class to detect and reject XSS patterns, SQL injection strings, and control characters, enforcing a MAX_CONTACTS resource limit to prevent memory exhaustion, and adding a full audit logging trail through SLF4J to support forensic analysis. 
 
-Moving forward, I plan to continue developing expertise in high-performance computing, cross-platform development, and advanced algorithm design. I am particularly interested performance-oriented systems, including parallel and cache-efficient sorting algorithms. Exploring the intersection of efficient computation and user-centered software design is an area I intend to pursue further, both professionally and academically.
+Each decision was grounded in OWASP Top 10 principles and validated through dedicated security tests covering concurrent access, malicious input, and boundary conditions. This reflects a fundamental shift from writing code that works to writing code that holds up under adversarial conditions. Security became a first-class design requirement, not a layer added afterward.
 
 ---
 
@@ -88,9 +88,6 @@ This ePortfolio is organized into the following sections:
 * **Software Design & Engineering** – Enhancement focusing on architecture and maintainability
 * **Algorithms & Data Structures** – Enhancement emphasizing algorithmic improvement
 * **Databases** – Enhancement centered on data persistence and management
-
-
-
 
 ---
 
